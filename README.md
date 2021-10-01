@@ -1,2 +1,2 @@
 # EzAuth
-This project aims to help fellow Python in getting authenicated
+This project aims to help fellow Python in getting authenticated
